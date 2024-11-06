@@ -22,7 +22,7 @@ API para gerenciamento de usuários, notícias e comentários. Essa aplicação 
 ## Instalação e Configuração
 1. Clone o repositório:
    ```bash
-  git@github.com:RaissaMacedo/JOTA_News_Backend.git
+  [git@github.com:RaissaMacedo/JOTA_News_Backend.git](https://github.com/RaissaMacedo/JOTA_News_Backend)
 
 
 2. Instale as dependências do PHP:
